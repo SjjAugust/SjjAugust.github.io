@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://github.com/SjjAugust/SjjAugust.github.io.git/atom.xml" rel="self"/>
+  <link href="https://sjjaugust.github.io/SjjAugust.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/SjjAugust/SjjAugust.github.io.git/"/>
+  <link href="https://sjjaugust.github.io/SjjAugust.github.io/"/>
   <updated>2021-04-19T10:47:53.884Z</updated>
-  <id>https://github.com/SjjAugust/SjjAugust.github.io.git/</id>
+  <id>https://sjjaugust.github.io/SjjAugust.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/SjjAugust/SjjAugust.github.io.git/2021/04/19/hello-world/"/>
-    <id>https://github.com/SjjAugust/SjjAugust.github.io.git/2021/04/19/hello-world/</id>
+    <link href="https://sjjaugust.github.io/SjjAugust.github.io/2021/04/19/hello-world/"/>
+    <id>https://sjjaugust.github.io/SjjAugust.github.io/2021/04/19/hello-world/</id>
     <published>2021-04-19T10:47:53.883Z</published>
     <updated>2021-04-19T10:47:53.884Z</updated>
     
