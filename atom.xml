@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>SJJ&#39;s blog</title>
   
-  
+  <subtitle>尽人事，听天命</subtitle>
   <link href="https://sjjaugust.github.io/atom.xml" rel="self"/>
   
   <link href="https://sjjaugust.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://sjjaugust.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Shijunjie</name>
     
   </author>
   
